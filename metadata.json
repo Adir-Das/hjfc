@@ -1,0 +1,6 @@
+{
+  "name": "Journalist Sports Club",
+  "description": "Multi-user online sports club management app for journalists with Supabase backend, member availability, attendance, BDT contributions, cashbook, expense approvals, WhatsApp automation, FCM notifications, team polls, gallery, equipment, and Bengali/English PDF & Excel reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
